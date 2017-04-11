@@ -14,6 +14,16 @@ Installation
 
 Install selenium-cucumber gem by running
 
-gem install selenium-cucumber
+`gem install selenium-cucumber`
 
+Install geckodriver
+ `brew install geckodriver`
+ 
+ Install selenium webdriver
+ `gem install selenium-webdriver`
+
+To run this script
+`enter project directory`
+
+`cucumber features/test.feature`
 
