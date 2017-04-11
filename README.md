@@ -6,7 +6,7 @@ Prerequisites
 
 You need to have Ruby installed. Verify your installation by running ruby -v in a terminal - it should print "ruby 1.9.3" (or higher).
 
-Need mozila firefox to launch this script.
+Need mozilla firefox to launch this script.
 
 Installation
 
